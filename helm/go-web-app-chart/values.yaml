@@ -1,0 +1,5 @@
+
+image:
+  repository: ariefshaik007/go-web-app
+  pullPolicy: IfNotPresent
+  tag: v1 
