@@ -2,4 +2,4 @@
 image:
   repository: ariefshaik007/go-web-app
   pullPolicy: IfNotPresent
-  tag: '16693653077'
+  tag: '16696157581'
